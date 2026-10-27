@@ -8,4 +8,4 @@ https://drive.google.com/file/d/1RWPYnDc1uq3PKVI6tZFEjs-lxatc9Ikk/view?usp=drive
 
 ### Description de la séance
 
-dossier : https://drive.google.com/drive/folders/1kLJ80Xbe_aQleoTg-AFg8H8Zjx7Jj8D-?usp=drive_link
+[dossier 📁 ](https://drive.google.com/drive/folders/1kLJ80Xbe_aQleoTg-AFg8H8Zjx7Jj8D-?usp=drive_link)
