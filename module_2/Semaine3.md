@@ -1,10 +1,7 @@
-# Semaine 3 - Perception / Actionnement
+# Semaine 3 - Souplesse / Agentivité matérielle
 
-## Théorie du cours
-https://drive.google.com/file/d/1G4VTSw0H4mkT4ODlPM9ASYLvOywOPo_j/view?usp=drive_link
-
-## Pratique du cours 
-https://drive.google.com/file/d/1F26Y3rg4yNgf-IjWsa4h-XXvAGp-1_kW/view?usp=drive_link
+## Théorie et pratique du cours 
+https://ena.etsmtl.ca/mod/folder/view.php?id=2015303
 
 ### Description de la séance
 
@@ -31,4 +28,4 @@ Capteurs du CP Express → ESP32 → Servo → actionnement d’une surface soup
 
 Utilisation du ESP32, de deux servo, afin qu'ils mettent en mouvement une surface souple
 
-![Mini Projet 01](documentation_collective/mini_projet_01.JPG)
+![Mini Projet 01](documentation_collective/mini_projet_02.JPG)
