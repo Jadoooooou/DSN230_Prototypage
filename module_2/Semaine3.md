@@ -7,25 +7,24 @@ https://ena.etsmtl.ca/mod/folder/view.php?id=2015303
 
 [dossier 📁 ](https://drive.google.com/drive/folders/1wpJn0DS9V9a3aNyb-NFZepJDWFuKi_IW?usp=drive_link)
 
-Cette semaine, nous avons parler du passage de la perception à l'action. Ce passage repose  sur la manière dont un objet technique est conçu et interagit avec son environnement. Un objet peut évoluer grâce à l’assemblage et à l’adaptation de ses composantes.
+Cette semaine, notre cours portait sur la robotique. La robotique et la sculpture est un mélange de la rigidité à la souplesse. Les machines souples introduisent ainsi l’imprévisibilité, le contact, la fragilité et la lenteur. Pour comprendre une œuvre, il faut analyser ses matériaux, ses mouvements et la façon dont le code et la matière interagissent.
 
-Une même donnée, comme la lumière captée par un capteur, peut produire différentes actions, comme allumer une DEL, faire tourner un moteur ou faire vibrer une surface. Le comportement dépend donc non seulement de la donnée, mais aussi des choix de conception, du contexte et de l’intention.
-
-
-<b>Lire une œuvre comme un système interactif</b>
-
-PERCEPTION → TRAITEMENT → ACTIONNEMENT
+AIR + MATIÈRE + GÉOMÉTRIE + TEMPS → COMPORTEMENT
 
 Ce que le système capte → comment il interprète → ce qu'il fait
 
 ```text
-Capteurs du CP Express → ESP32 → Servo → actionnement d’une surface souple
+tube en polyéthylène (PE) → soudure → air → plis / contraintes → mouvement
 ```
+
+<b>Objectif: </b>
+Fabriquer un actionneur pneumatique en PE et explorer comment la géométrie, les contraintes et la temporalité transforment l’inflation en mouvement.
+
 
 ---
 
-## Création du premier mini projet
+## Création du deuxième mini projet
 
-Utilisation du ESP32, de deux servo, afin qu'ils mettent en mouvement une surface souple
+Utilisation du ESP32, DRV8833 (Contrôle l'alimentation des actionneurs selon les commandes reçues), Pompe, Valve, Alimentation 5V (Fournit l'énergie à la pompe et à la valve)
 
 ![Mini Projet 01](documentation_collective/mini_projet_02.JPG)
