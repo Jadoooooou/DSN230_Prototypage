@@ -11,9 +11,9 @@
 
 ## Objectifs
 
-**But principal :** *Décrire en une phrase ce que cette documentation doit permettre.*
+**But principal :** *Cette documentation nous permet de visualiser notre processus de prototypage, ainsi permettant l'évolution, l'expérimentation et l'apprentissage de notre projet final.*
 
-**Public cible :** *Développeurs, utilisateurs finaux, équipe support, nouveaux arrivants…*
+**Public cible :** *Notre projet s'adresse à un public qui sont moins sensibiliser de l'impact des humains sur l'écosystème.*
 ---
 
 ---
