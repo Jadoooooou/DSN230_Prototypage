@@ -60,12 +60,14 @@ Colle ici commandes, logs, extraits, idées en vrac…
 - Rencontre avec le technicien pour l'exposition
 
 #### Blocages rencontrés
-- Circulation d'air: Puisque nous avons des antennes, nous nous sommes heurtés sur la manière d'assembler celles-ci avec le corps → *Au lieu de découper individuellement des antennes et de les reliées au corps comme idéalisé en premier lieu, nous allons prendre des plus grandes feuilles de plastique dans lesquelles nous allons détourer un patron*
+- Circulation d'air: Puisque nous avons des antennes, nous nous sommes heurtés sur la manière d'assembler celles-ci avec le corps →
+
+  *Au lieu de découper individuellement des antennes et de les reliées au corps comme idéalisé en premier lieu, nous allons prendre des plus grandes feuilles de plastique dans lesquelles nous allons détourer un patron*
 
 #### Notes brutes
-```
-![notes brutes](documentation_collective/05-11.jpeg)
-```
+
+>![notes brutes](documentation_collective/05-11.jpeg)
+
 
 #### Prochaines étapes
 - [ ] Finalisation du moodboard
@@ -85,9 +87,8 @@ Colle ici commandes, logs, extraits, idées en vrac…
 
 | # | Titre | Type | Lien | Fiabilité | Notes |
 |---|---|---|---|---|---|
-| 1 | Documentation officielle | 📘 Doc | [lien](https://example.com) | ⭐⭐⭐⭐⭐ | À jour |
+| 1 | Inspirations | (documentation_collective/z_references/pinterest-color-svgrepo-com.svg) Pinterest | [lien](https://example.com) | ⭐⭐⭐⭐⭐ | À jour |
 | 2 | Article de blog | 📰 Article | [lien](https://example.com) | ⭐⭐⭐ | Utile pour les exemples |
-| 3 | Échange avec un expert | 🗣️ Entretien | — | ⭐⭐⭐⭐ | Date : `AAAA-MM-JJ` |
 
 ---
 
@@ -95,14 +96,14 @@ Colle ici commandes, logs, extraits, idées en vrac…
 
 | Date | Version | Auteur | Changement |
 |---|---|---|---|
+| `2026-11-05` | 0.1.0 | `Jade` | Création du journal |
 | `AAAA-MM-JJ` | 0.2.0 | `Nom` | Ajout de la section X |
-| `AAAA-MM-JJ` | 0.1.0 | `Nom` | Création du journal |
 
 
 ---
 
 <div align="center">
 
-*📌 Journal tenu avec soin · Dernière modification : `AAAA-MM-JJ`*
+*Dernière modification : `2026-11-12`*
 
 </div>
