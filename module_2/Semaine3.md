@@ -27,4 +27,5 @@ Fabriquer un actionneur pneumatique en PE et explorer comment la géométrie, le
 
 Utilisation du ESP32, DRV8833 (Contrôle l'alimentation des actionneurs selon les commandes reçues), Pompe, Valve, Alimentation 5V (Fournit l'énergie à la pompe et à la valve)
 
-![Mini Projet 01](documentation_collective/mini_projet_02.JPG)
+![Mini Projet 02](documentation_collective/mini_projet_02.JPG)
+![Prototypage](documentation_collective/01__images/module02_cours03/dji_mimo_20261029_132308_20261029142309_1793913918971_photo.JPG)
