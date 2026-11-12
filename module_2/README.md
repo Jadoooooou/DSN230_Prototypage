@@ -13,41 +13,8 @@
 
 **But principal :** *Cette documentation nous permet de visualiser notre processus de prototypage, ainsi permettant l'évolution, l'expérimentation et l'apprentissage de notre projet final.*
 
-**Public cible :** *Notre projet s'adresse à un public qui sont moins sensibiliser de l'impact des humains sur l'écosystème.*
----
+**Public cible :**  *Notre projet s'adresse à un public qui sont moins sensibiliser de l'impact des humains sur l'écosystème.*
 
----
-
-## Entrées quotidiennes
-
-### MM-JJ — *Titre de la journée*
-
-#### Ce qui a été fait
-- Tâche accomplie 1
-- Tâche accomplie 2
-
-#### Ce que j'ai appris
-- Découverte ou point de compréhension
-
-#### Blocages rencontrés
-- Problème → *piste envisagée*
-
-#### Notes brutes
-```text
-Colle ici commandes, logs, extraits, idées en vrac…
-```
-
-#### ➡️ Prochaines étapes
-- [ ] Action pour demain
-- [ ] Autre action
-
-<details>
-<summary>📎 Pièces jointes & captures</summary>
-
-- `captures/AAAA-MM-JJ-ecran.png`
-- Lien vers un document
-
-</details>
 ---
 
 ### 11-05 — *Premier prototypage*
@@ -83,18 +50,20 @@ Colle ici commandes, logs, extraits, idées en vrac…
 
 </details>
 
+---
+
 ## 📚 Sources & références
 
-| # | Titre | Type | Lien | Fiabilité | Notes |
-|---|---|---|---|---|---|
-| 1 | Inspirations | (documentation_collective/z_references/pinterest-color-svgrepo-com.svg) Pinterest | [lien](https://example.com) | ⭐⭐⭐⭐⭐ | À jour |
-| 2 | Article de blog | 📰 Article | [lien](https://example.com) | ⭐⭐⭐ | Utile pour les exemples |
+| # | Titre <img width="300">| Type <img width="300"> | Lien <img width="100"> |
+|---|---|---|---|
+| 1 | Inspirations | <img src="documentation_collective/z_references/pinterest-color-svgrepo-com.svg" width="15"> Pinterest | [lien](https://pin.it/3Wc1fhkl2) |
+| 2 | Article de blog | 📰 Article | [lien](https://example.com) |
 
 ---
 
 ## 🔄 Journal des modifications
 
-| Date | Version | Auteur | Changement |
+| Date <img width="100">| Version <img width="100">| Auteur <img width="100">| Changement <img width="300">|
 |---|---|---|---|
 | `2026-11-05` | 0.1.0 | `Jade` | Création du journal |
 | `AAAA-MM-JJ` | 0.2.0 | `Nom` | Ajout de la section X |
