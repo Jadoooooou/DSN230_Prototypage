@@ -20,7 +20,7 @@
 
 ## Entrées quotidiennes
 
-### AAAA-MM-JJ — *Titre de la journée*
+### MM-JJ — *Titre de la journée*
 
 #### Ce qui a été fait
 - Tâche accomplie 1
@@ -49,6 +49,37 @@ Colle ici commandes, logs, extraits, idées en vrac…
 
 </details>
 ---
+
+### 11-05 — *Premier prototypage*
+
+#### Ce qui a été fait
+- Analyse des mouvements et la façon dont le code et la matière interagissent
+- Comprendre comment l'air circulerait dans l'œuvre
+- Discussion sur l'accrochage et la disposition des fils
+- Visite de la salle et de notre emplacement
+- Rencontre avec le technicien pour l'exposition
+
+#### Blocages rencontrés
+- Circulation d'air: Puisque nous avons des antennes, nous nous sommes heurtés sur la manière d'assembler celles-ci avec le corps → *Au lieu de découper individuellement des antennes et de les reliées au corps comme idéalisé en premier lieu, nous allons prendre des plus grandes feuilles de plastique dans lesquelles nous allons détourer un patron*
+
+#### Notes brutes
+```
+![notes brutes](documentation_collective/05-11.jpeg)
+```
+
+#### Prochaines étapes
+- [ ] Finalisation du moodboard
+- [ ] Trouver nos matériaux
+- [ ] Avoir des grandes feuilles de plastique
+- [ ] Avoir un premier code
+
+<details>
+<summary>📎 Pièces jointes & captures</summary>
+
+- `captures/AAAA-MM-JJ-ecran.png`
+- Lien vers un document
+
+</details>
 
 ## 📚 Sources & références
 
