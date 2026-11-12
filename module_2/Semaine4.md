@@ -13,9 +13,9 @@ Cette semaine, notre cours portait sur l'influence des phénomènes extérieurs 
 Utiliser les données comme matière première → Les traduire en formes, mouvements, sensations ou transformations   
 physiques → Privilégier l'expérience et l'interprétation plutôt que la lecture littérale des données
 ```
-Les œuvres peuvent ainsi réagir à des phénomènes invisibles, distants ou en constante évolution.
+Les œuvres peuvent ainsi réagir à des phénomènes invisibles, distants ou en constante évolution. 
 
-![Documentation du cours](medias/module02_cours_04.png)
+![Documentation du cours](%20medias/module02_cours_04.png)
 
 Pour connecter un objet au monde extérieur, différentes technologies peuvent être utilisées, comme les API, les capteurs, le GPS, les ondes radio ou les communications entre appareils.
 
