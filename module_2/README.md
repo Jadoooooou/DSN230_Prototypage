@@ -31,10 +31,11 @@
 
   *Au lieu de découper individuellement des antennes et de les reliées au corps comme idéalisé en premier lieu, nous allons prendre des plus grandes feuilles de plastique dans lesquelles nous allons détourer un patron*
 
+![](documentation_collective/03__gif/prototypage_mou.gif)
+
 #### Notes brutes
 
 >![notes brutes](documentation_collective/05-11.jpeg)
-
 
 #### Prochaines étapes
 - [ ] Finalisation du moodboard
@@ -45,7 +46,7 @@
 <details>
 <summary>📎 Pièces jointes & captures</summary>
 
-- `captures/AAAA-MM-JJ-ecran.png`
+![démo](documentation_collective/03__gif/prototypage_mou.gif)
 - Lien vers un document
 
 </details>
