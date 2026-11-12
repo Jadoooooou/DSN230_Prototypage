@@ -31,8 +31,6 @@
 
   *Au lieu de découper individuellement des antennes et de les reliées au corps comme idéalisé en premier lieu, nous allons prendre des plus grandes feuilles de plastique dans lesquelles nous allons détourer un patron*
 
-![](documentation_collective/03__gif/prototypage_mou.gif)
-
 #### Notes brutes
 
 >![notes brutes](documentation_collective/05-11.jpeg)
@@ -46,6 +44,7 @@
 <details>
 <summary>📎 Pièces jointes & captures</summary>
 
+<video src="https://github.com/Jadoooooou/DSN230_Prototypage/blob/9f78674a1a0a662a8d3f156b7dc7026a0d03f610/module_2/documentation_collective/02__videos/module02_cours03/prototypage_mou.mp4"></video>
 ![démo](documentation_collective/03__gif/prototypage_mou.gif)
 - Lien vers un document
 
