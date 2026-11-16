@@ -43,9 +43,9 @@
 
 <details>
 <summary>📎 Pièces jointes & captures</summary>
-
-<video src="https://github.com/Jadoooooou/DSN230_Prototypage/blob/9f78674a1a0a662a8d3f156b7dc7026a0d03f610/module_2/documentation_collective/02__videos/module02_cours03/prototypage_mou.mp4"></video>
+ 
 ![démo](documentation_collective/03__gif/prototypage_mou.gif)
+![démo](documentation_collective/03__gif/prototypage_01.gif)
 - Lien vers un document
 
 </details>
