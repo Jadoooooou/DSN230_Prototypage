@@ -17,7 +17,7 @@
 
 ---
 
-### 11-05 — *Premier prototypage*
+### 11-05 — *Première idéation*
 
 #### Ce qui a été fait
 - Analyse des mouvements et la façon dont le code et la matière interagissent
@@ -46,6 +46,32 @@
  
 ![démo](documentation_collective/03__gif/prototypage_mou.gif)
 ![démo](documentation_collective/03__gif/prototypage_01.gif)
+- Lien vers un document
+
+</details>
+
+---
+
+### 11-19 — *Premiers prototypages*
+
+#### Ce qui a été fait
+- 
+
+#### Blocages rencontrés
+- ... →
+
+  *...*
+
+#### Notes brutes
+
+>![notes brutes](documentation_collective/05-11.jpeg)
+
+#### Prochaines étapes
+- [ ] ...
+
+<details>
+<summary>📎 Pièces jointes & captures</summary>
+ 
 - Lien vers un document
 
 </details>
