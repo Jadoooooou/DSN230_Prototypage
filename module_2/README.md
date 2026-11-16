@@ -83,7 +83,7 @@
 | # | Titre <img width="300">| Type <img width="300"> | Lien <img width="100"> |
 |---|---|---|---|
 | 1 | Inspirations | <img src="documentation_collective/z_references/pinterest-color-svgrepo-com.svg" width="15"> Pinterest | [lien](https://pin.it/3Wc1fhkl2) |
-| 2 | Article de blog | 📰 Article | [lien](https://example.com) |
+| 2 | Máshol - Elsewhere project | <img src="documentation_collective/z_references/behance-logo.webp" width="25"> Benance | [lien](https://www.behance.net/gallery/51903821/Mashol-Elsewhere-project) |
 
 ---
 
