@@ -4,6 +4,7 @@
 ## Sommaire
 
 - [Objectifs](#-objectifs)
+- [Échéancier](#-echeancier)
 - [Entrées quotidiennes](#-entrées-quotidiennes)
 - [Sources & références](#-sources--références)
 
@@ -16,7 +17,11 @@
 **Public cible :**  *Notre projet s'adresse à un public qui sont moins sensibiliser de l'impact des humains sur l'écosystème.*
 
 ---
+## Échéancier
 
+https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873fa56aa5dd598670BD/dsn120
+
+---
 ### 11-05 — *Première idéation*
 
 #### Ce qui a été fait
@@ -46,7 +51,7 @@
  
 ![démo](documentation_collective/03__gif/prototypage_mou.gif)
 ![démo](documentation_collective/03__gif/prototypage_01.gif)
-- Lien vers un document
+- [Lien vers le FigJam](https://www.figma.com/board/P77ZoMvgJLPthdGSxZaMwB/DSN120_id%C3%A9ations?node-id=6-72&t=tfZSSDnDlvh2ZTZW-1)
 
 </details>
 
@@ -62,7 +67,6 @@
 
 #### Blocages rencontrés
 - Nous ne savions pas si l'école était équipée d'une plus petite thermo-soudeuse →
--
   *Après une brève discussion avec les techniciens, nous avons décider de se procurer nous même une mini thermosoudeuse*
 
 #### Notes brutes
@@ -86,19 +90,29 @@
 ### 11-19 — *Premiers prototypages*
 
 #### Ce qui a été fait
-- ..
+- Présentation / décision des choix visuels et sonores
+- Premiers tests du code des pompes
+- Installation des circuits
+- Écriture du cartel
+- Création du support visuel
 
 #### Blocages rencontrés
-- ... →
-
-  *...*
+- Nous n'avons pas eu la chance de recevoir la mini-thermosoudeuse pour le cours →
+  *Nous avons donc souder avec la grosse commerciale disponible*
+- Nous avons beaucoup de complexité pour le temps donné →
+  *Nous allons donc oublié l'idée des méduses qui montent et elles resteront suspendues, et nous allons oublié l'aspect du touché, et remplacer le tout par la détection de mouvement*
+- Nous n'avons pas eu le temps de faire un prototype complet →
+  *Nous allons nous rencontrer une autre fois au courant de la semaine pour avancer dans le projet*
 
 #### Notes brutes
 
->![notes brutes](documentation_collective/05-11.jpeg)
+>![notes brutes]()
 
 #### Prochaines étapes
-- [ ] ...
+- [ ] Faire un prototype avec les bonnes dimensions
+- [ ] Ajouter une lumière LED RGB à l'installation
+- [ ] Ajouter une animation de la lumière et de déclenchement sonore dans le code
+- [ ] Finaliser le diagramme et la présentation pour le prochain cours
 
 <details>
 <summary>📎 Pièces jointes & captures</summary>
