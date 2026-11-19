@@ -52,10 +52,41 @@
 
 ---
 
+### 11-11 — *Préparation et achats*
+
+#### Ce qui a été fait
+- Achat les matériaux (plastique et rembourage synthétique)
+- Achat du mini-soudeuse
+- Réservation du projecteur
+- Création d'une vague virtuelle sur TouchDesigner
+
+#### Blocages rencontrés
+- Nous ne savions pas si l'école était équipée d'une plus petite thermo-soudeuse →
+-
+  *Après une brève discussion avec les techniciens, nous avons décider de se procurer nous même une mini thermosoudeuse*
+
+#### Notes brutes
+
+><img src="documentation_collective/01__images/post_it_materiaux.png">
+
+#### Prochaines étapes
+- [ ] Confirmer les choix / achats
+- [ ] Faire un premier prototype fonctionel
+      
+<details>
+<summary>📎 Pièces jointes & captures</summary>
+<img src="documentation_collective/01__images/moodboard.png">
+
+[![Tutoriel TouchDeisgner](https://img.youtube.com/vi/CZe_pBAyreU/maxresdefault.jpg)](https://youtu.be/CZe_pBAyreU)
+
+</details>
+
+---
+
 ### 11-19 — *Premiers prototypages*
 
 #### Ce qui a été fait
-- 
+- ..
 
 #### Blocages rencontrés
 - ... →
@@ -84,6 +115,7 @@
 |---|---|---|---|
 | 1 | Inspirations | <img src="documentation_collective/z_references/pinterest-color-svgrepo-com.svg" width="15"> Pinterest | [lien](https://pin.it/3Wc1fhkl2) |
 | 2 | Máshol - Elsewhere project | <img src="documentation_collective/z_references/behance-logo.webp" width="25"> Benance | [lien](https://www.behance.net/gallery/51903821/Mashol-Elsewhere-project) |
+| 3 | Wavy Particle Systems in TouchDesigner using POPs | <img src="documentation_collective/z_references/YouTube_social.webp" width="25"> Youtube | [lien](https://youtu.be/CZe_pBAyreU) |
 
 ---
 
