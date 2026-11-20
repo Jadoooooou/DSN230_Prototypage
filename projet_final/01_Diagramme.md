@@ -2,7 +2,7 @@
 
 **But principal :** _Cette documentation nous permet de visualiser notre diagramme de notre projet final._
 
-![notes brutes](documentation_collective/05-11.jpeg)
+![diagramme](documentation_collective/01__images/diagramme.png)
 
 #### Contextualisation
 
