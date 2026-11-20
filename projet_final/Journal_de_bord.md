@@ -10,18 +10,22 @@
 
 ---
 
-## Objectifs
+## Échéancier
 
 **But principal :** *Cette documentation nous permet de visualiser notre processus de prototypage, ainsi permettant l'évolution, l'expérimentation et l'apprentissage de notre projet final.*
 
 **Public cible :**  *Notre projet s'adresse à un public qui sont moins sensibiliser de l'impact des humains sur l'écosystème.*
 
 ---
-## Échéancier
+
+## Objectifs
 
 https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873fa56aa5dd598670BD/dsn120
 
 ---
+
+## Entrées quotidiennes
+
 ### 11-05 — *Première idéation*
 
 #### Ce qui a été fait
@@ -66,7 +70,7 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 - Création d'une vague virtuelle sur TouchDesigner
 
 #### Blocages rencontrés
-- Nous ne savions pas si l'école était équipée d'une plus petite thermo-soudeuse →
+- Nous ne savions pas si l'école était équipée d'une plus petite thermo-soudeuse →   
   *Après une brève discussion avec les techniciens, nous avons décider de se procurer nous même une mini thermosoudeuse*
 
 #### Notes brutes
@@ -97,16 +101,16 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 - Création du support visuel
 
 #### Blocages rencontrés
-- Nous n'avons pas eu la chance de recevoir la mini-thermosoudeuse pour le cours →
+- Nous n'avons pas eu la chance de recevoir la mini-thermosoudeuse pour le cours →  
   *Nous avons donc souder avec la grosse commerciale disponible*
-- Nous avons beaucoup de complexité pour le temps donné →
+- Nous avons beaucoup de complexité pour le temps donné →    
   *Nous allons donc oublié l'idée des méduses qui montent et elles resteront suspendues, et nous allons oublié l'aspect du touché, et remplacer le tout par la détection de mouvement*
-- Nous n'avons pas eu le temps de faire un prototype complet →
+- Nous n'avons pas eu le temps de faire un prototype complet →    
   *Nous allons nous rencontrer une autre fois au courant de la semaine pour avancer dans le projet*
 
 #### Notes brutes
 
->![notes brutes]()
+>![notes brutes](documentation_collective/01__images/notes.png)
 
 #### Prochaines étapes
 - [ ] Faire un prototype avec les bonnes dimensions
@@ -116,36 +120,36 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 
 <details>
 <summary>📎 Pièces jointes & captures</summary>
- 
-- Lien vers un document
+<img src="documentation_collective/01__images/code_couleurs.png">
+<img src="documentation_collective/01__images/cartel.png">
 
 </details>
 
 ---
 
-## 📚 Sources & références
+## Sources & références
 
 | # | Titre <img width="300">| Type <img width="300"> | Lien <img width="100"> |
 |---|---|---|---|
 | 1 | Inspirations | <img src="documentation_collective/z_references/pinterest-color-svgrepo-com.svg" width="15"> Pinterest | [lien](https://pin.it/3Wc1fhkl2) |
 | 2 | Máshol - Elsewhere project | <img src="documentation_collective/z_references/behance-logo.webp" width="25"> Benance | [lien](https://www.behance.net/gallery/51903821/Mashol-Elsewhere-project) |
-| 3 | Wavy Particle Systems in TouchDesigner using POPs | <img src="documentation_collective/z_references/YouTube_social.webp" width="25"> Youtube | [lien](https://youtu.be/CZe_pBAyreU) |
+| 3 | Wavy Particle Systems in TouchDesigner using POPs | <img src="documentation_collective/z_references/YouTube_social.webp" width="18"> Youtube | [lien](https://youtu.be/CZe_pBAyreU) |
 
 ---
 
-## 🔄 Journal des modifications
+## Journal des modifications
 
 | Date <img width="100">| Version <img width="100">| Auteur <img width="100">| Changement <img width="300">|
 |---|---|---|---|
 | `2026-11-05` | 0.1.0 | `Jade` | Création du journal |
-| `AAAA-MM-JJ` | 0.2.0 | `Nom` | Ajout de la section X |
+| `2026-11-19` | 0.2.0 | `Justin` | Changement d'interaction |
 
 
 ---
 
 <div align="center">
 
-*Dernière modification : `2026-11-12`*
+*Dernière modification : `2026-11-19`*
 
 </div>
 
