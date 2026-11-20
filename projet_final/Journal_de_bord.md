@@ -10,7 +10,7 @@
 
 ---
 
-## Échéancier
+## Objectifs
 
 **But principal :** *Cette documentation nous permet de visualiser notre processus de prototypage, ainsi permettant l'évolution, l'expérimentation et l'apprentissage de notre projet final.*
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Objectifs
+## Échéancier
 
 https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873fa56aa5dd598670BD/dsn120
 
@@ -26,7 +26,9 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 
 ## Entrées quotidiennes
 
-### 11-05 — *Première idéation*
+### 11-05 — *Première idéation*   
+<details>
+<summary>Entrée</summary>
 
 #### Ce qui a été fait
 - Analyse des mouvements et la façon dont le code et la matière interagissent
@@ -58,10 +60,13 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 - [Lien vers le FigJam](https://www.figma.com/board/P77ZoMvgJLPthdGSxZaMwB/DSN120_id%C3%A9ations?node-id=6-72&t=tfZSSDnDlvh2ZTZW-1)
 
 </details>
+</details>
 
 ---
 
-### 11-11 — *Préparation et achats*
+### 11-11 — *Préparation et achats*   
+<details>
+<summary>Entrée</summary>
 
 #### Ce qui a été fait
 - Achat les matériaux (plastique et rembourage synthétique)
@@ -88,10 +93,13 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 [![Tutoriel TouchDeisgner](https://img.youtube.com/vi/CZe_pBAyreU/maxresdefault.jpg)](https://youtu.be/CZe_pBAyreU)
 
 </details>
+</details>
 
 ---
 
-### 11-19 — *Premiers prototypages*
+### 11-19 — *Premiers prototypages*   
+<details>
+<summary>Entrée</summary>
 
 #### Ce qui a été fait
 - Présentation / décision des choix visuels et sonores
@@ -123,6 +131,7 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 <img src="documentation_collective/01__images/code_couleurs.png">
 <img src="documentation_collective/01__images/cartel.png">
 
+</details>
 </details>
 
 ---
