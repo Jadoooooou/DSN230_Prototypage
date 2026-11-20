@@ -1,12 +1,6 @@
-# Journal de documentation
-
----
+# Diagramme
 
 **But principal :** _Cette documentation nous permet de visualiser notre diagramme de notre projet final._
-
----
-
-## Diagramme
 
 ![notes brutes](documentation_collective/05-11.jpeg)
 
@@ -22,7 +16,7 @@ Après un certain délais\*, les créatures reprennent vie et l'exposition renai
 
 _L'intrusion était dabord le contact avec les créatures. Pour des raisons techniques et esthétiques, nous avons décider de changer l'interaction par une détection de mouvement_
 
-_Le délais est pour l'instant une durée d'une minute, à tester _
+_Le délais est pour l'instant une durée d'une minute, à tester_
 
 ---
 
