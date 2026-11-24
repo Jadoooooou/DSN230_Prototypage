@@ -2,12 +2,12 @@
 
 ## Sommaire
 
-- [Objectifs](#-objectifs)
+- [Contextualisation](#-Contextualisation)
 - [Échéancier](#-echeancier)
 - [Entrées quotidiennes](#-entrées-quotidiennes)
 - [Sources & références](#-sources--références)
 
-## Objectifs
+## Contextualisation
 
 **Intention :** *Explorer l’univers d’Avatar en raison non seulement de son esthétique, mais aussi en raison du message profond derrière, pour une intention de conscientiser les impacts négatifs de l’activité humaine sur la nature*
 
@@ -43,7 +43,7 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 
   *Au lieu de découper individuellement des antennes et de les reliées au corps comme idéalisé en premier lieu, nous allons prendre des plus grandes feuilles de plastique dans lesquelles nous allons détourer un patron*
 
-#### Notes brutes
+#### Notes de processus
 
 >![notes brutes](documentation_collective/05-11.jpeg)
 
@@ -79,7 +79,7 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 - Nous ne savions pas si l'école était équipée d'une plus petite thermo-soudeuse →   
   *Après une brève discussion avec les techniciens, nous avons décider de se procurer nous même une mini thermosoudeuse*
 
-#### Notes brutes
+#### Notes de processus
 
 ><img src="documentation_collective/01__images/post_it_materiaux.png">
 
@@ -117,7 +117,7 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 - Nous n'avons pas eu le temps de faire un prototype complet →    
   *Nous allons nous rencontrer une autre fois au courant de la semaine pour avancer dans le projet*
 
-#### Notes brutes
+#### Notes de processus
 
 >![notes brutes](documentation_collective/01__images/notes.png)
 
