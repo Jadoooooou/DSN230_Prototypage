@@ -1,5 +1,4 @@
 # Journal de documentation
----
 
 ## Sommaire
 
@@ -8,21 +7,23 @@
 - [Entrées quotidiennes](#-entrées-quotidiennes)
 - [Sources & références](#-sources--références)
 
----
-
 ## Objectifs
 
-**But principal :** *Cette documentation nous permet de visualiser notre processus de prototypage, ainsi permettant l'évolution, l'expérimentation et l'apprentissage de notre projet final.*
+**Intention :** *Explorer l’univers d’Avatar en raison non seulement de son esthétique, mais aussi en raison du message profond derrière, pour une intention de conscientiser les impacts négatifs de l’activité humaine sur la nature*
 
-**Public cible :**  *Notre projet s'adresse à un public qui sont moins sensibiliser de l'impact des humains sur l'écosystème.*
+**Contexte :** *Notre projet s'adresse à un public qui sont moins sensibiliser de l'impact des humains sur l'écosystème.*
 
----
+**Interaction :** *Avec sa présence et ses mouvements, l’utilisateur perturbe l’environnement autour de lui, affectant les comportements et la lumière de nos  ...*
+
+**Choix techniques et matériels :** *Notre idée de départ était de faire un contact avec les ... , pour une plus grosse sensibilisation, mais pour des contraintes de temps et de matériaux, nous avons décider d’utiliser un capteur de mouvements, qui vient aussi s’inscrire dans notre intention et ne change pas notre idée de départ.* 
+
+*Pour le matériel, nous nous sommes inspiré de références existantes, et nous cherchions un corps qui pouvait être mou.*
+
+[Diagramme](https://github.com/Jadoooooou/DSN230_Prototypage/blob/9cda81174c7a6ee9e832cc5a1fe44938c2f95130/projet_final/01_Diagramme.md)
 
 ## Échéancier
 
 https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873fa56aa5dd598670BD/dsn120
-
----
 
 ## Entrées quotidiennes
 
@@ -158,7 +159,7 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 
 <div align="center">
 
-*Dernière modification : `2026-11-19`*
+*Dernière modification : `2026-11-24`*
 
 </div>
 
