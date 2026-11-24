@@ -1,6 +1,8 @@
 # Diagramme
 
-**But principal :** _Cette documentation nous permet de visualiser notre diagramme de notre projet final._
+**But principal :** _Explorer l’univers d’Avatar en raison non seulement de son esthétique, mais aussi en raison du message profond derrière, pour une intention de conscientiser les impacts négatifs de l’activité humaine sur la nature._
+
+>ENTRÉE (capteur de mouvement) → TRAITEMENT (code) → SORTIE (changement visuel et moteur et déclencheur sonore)
 
 ![diagramme](documentation_collective/01__images/diagramme.png)
 
@@ -22,6 +24,6 @@ _Le délais est pour l'instant une durée d'une minute, à tester_
 
 <div align="center">
 
-_Dernière modification : `2026-11-20`_
+_Dernière modification : `2026-11-24`_
 
 </div>
