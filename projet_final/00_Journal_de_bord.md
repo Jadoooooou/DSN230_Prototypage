@@ -137,6 +137,36 @@ https://trello.com/invite/b/6aff263a9ccdf87b76820a27/ATTI7f8da8d1c0c89679886a873
 
 ---
 
+### 11-26 — *Production*   
+<details>
+<summary>Entrée</summary>
+
+#### Ce qui a été fait
+- Présentation de notre concept et de notre avancé
+- Production **_massive_** de créatures
+- Codage de la détection
+- Création de l'animation lumineuse
+
+#### Blocages rencontrés
+- ... →   
+  *...*
+
+#### Notes de processus
+
+><a href="https://www.figma.com/deck/YakpQHwAob4rrTvrJhvzig"><img src="documentation_collective/01__images/presentation.png"></img></a>
+
+#### Prochaines étapes
+- [ ] 
+      
+<details>
+<summary>📎 Pièces jointes & captures</summary>
+
+
+</details>
+</details>
+
+---
+
 ## Sources & références
 
 | # | Titre <img width="300">| Type <img width="300"> | Lien <img width="100"> |
